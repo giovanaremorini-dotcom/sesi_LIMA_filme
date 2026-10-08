@@ -232,6 +232,8 @@ Página Web
 O objetivo é desenvolver uma interface temática, organizada e visualmente personalizada.
 
 ---
+[Clique aqui para acessar o msite do filme](file:///C:/Users/giovana%20remorini/Desktop/SENAI/github/Avalia%C3%A7%C3%A3o_LIMA/site_filme/index.html#sinopse/)
+---
 
 <div align="center">
 
