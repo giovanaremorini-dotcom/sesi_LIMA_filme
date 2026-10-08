@@ -1,6 +1,6 @@
 # 🎀 Barbie — As 12 Princesas Bailarinas
 
-> ✨ **Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas**, utilizando **HTML5 e CSS3**, com o objetivo de criar um site temático sobre o filme **Barbie: As 12 Princesas Bailarinas**.
+> ✨ **Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas**, utilizando **HTML e CSS**, com o objetivo de criar um site temático sobre o filme **Barbie: As 12 Princesas Bailarinas**.
 
 ---
 
@@ -117,44 +117,11 @@ O visitante pode preencher um formulário contendo:
 
 |         Tecnologia         | Utilização                       |
 | :------------------------: | -------------------------------- |
-|        🟧 **HTML5**        | Estrutura e conteúdo da página   |
-|         🎨 **CSS3**        | Estilização e organização visual |
+|        🟧 **HTML**        | Estrutura e conteúdo da página   |
+|         🎨 **CSS**        | Estilização e organização visual |
 |      🖼️ **PNG / GIF**     | Imagens e elementos visuais      |
 |       🎬 **YouTube**       | Incorporação do trailer          |
 | 🔤 **Fonte personalizada** | Identidade visual do projeto     |
-
----
-
-# 📁 Estrutura do Projeto
-
-```text
-sesi_LIMA_vps01_filme/
-│
-├── 📄 index.html
-├── 🎨 style.css
-│
-├── 🖼️ Poster.png
-├── 🖼️ Genevive.png
-├── 🖼️ Ashlyn.png
-├── 🖼️ Blair.png
-├── 🖼️ Courtney.png
-├── 🖼️ Delia.png
-├── 🖼️ Trigemeas.png
-│
-├── 🖼️ galeria1.png
-├── 🖼️ galeria2.png
-├── 🖼️ galeria3.png
-├── 🖼️ galeria4.png
-├── 🖼️ galeria5.png
-├── 🖼️ galeria6.png
-│
-├── 🎞️ barbie.gif
-│
-├── 🔤 DK Cool Crayon.ttf
-├── 📄 fonte crayon.pdf
-│
-└── 📘 README.md
-```
 
 ---
 
@@ -212,36 +179,6 @@ A página também utiliza **IDs e classes** para permitir a organização do con
 
 ---
 
-# ▶️ Como Executar
-
-Não é necessário instalar programas ou dependências adicionais.
-
-### 1️⃣ Baixe ou clone o projeto
-
-```bash
-git clone https://github.com/giovanaremorini-dotcom/sesi_LIMA_vps01_filme.git
-```
-
-### 2️⃣ Abra a pasta do projeto
-
-```text
-sesi_LIMA_vps01_filme
-```
-
-### 3️⃣ Execute o site
-
-Abra o arquivo:
-
-```text
-index.html
-```
-
-O projeto será carregado diretamente no navegador.
-
-> 💡 Também é possível utilizar extensões como **Live Server** no Visual Studio Code para visualizar as alterações em tempo real.
-
----
-
 # 📚 Conceitos Praticados
 
 Durante o desenvolvimento deste projeto foram trabalhados conceitos importantes de desenvolvimento web.
@@ -276,7 +213,7 @@ Durante o desenvolvimento deste projeto foram trabalhados conceitos importantes 
 
 # 🎯 Objetivo Educacional
 
-O projeto foi desenvolvido como uma atividade prática para aplicar conhecimentos de **HTML5 e CSS3** na criação de uma página web completa.
+O projeto foi desenvolvido como uma atividade prática para aplicar conhecimentos de **HTML e CSS** na criação de uma página web completa.
 
 Além de praticar a estruturação de páginas, o projeto permite trabalhar a relação entre:
 
@@ -296,39 +233,12 @@ O objetivo é desenvolver uma interface temática, organizada e visualmente pers
 
 ---
 
-# 🚀 Possíveis Melhorias
-
-O projeto pode futuramente receber novas funcionalidades:
-
-* 📱 Melhor adaptação para dispositivos móveis;
-* 🌙 Modo escuro;
-* 🔎 Sistema de pesquisa;
-* ⭐ Sistema de avaliação do filme;
-* 💬 Exibição das opiniões enviadas no próprio site;
-* 🎞️ Mais informações sobre os personagens;
-* ✨ Animações adicionais;
-* 🖼️ Galeria interativa;
-* ⚙️ Integração com JavaScript;
-* 📦 Organização dos arquivos em pastas específicas.
-
----
-
-# 👩‍💻 Autoria
-
-### **Giovana Remorini**
-
-🎓 Estudante de **Desenvolvimento de Sistemas — SENAI/SESI**
-
-📌 **Projeto:** `sesi_LIMA_vps01_filme`
-
----
-
 <div align="center">
 
 ### 🎀 Barbie — As 12 Princesas Bailarinas 🎀
 
 > *Uma história de dança, amizade, coragem e magia.*
 
-✨ **HTML5 • CSS3 • Desenvolvimento Web** ✨
+✨ **HTML • CSS • Desenvolvimento Web** ✨
 
 </div>
