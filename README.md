@@ -232,7 +232,7 @@ Página Web
 O objetivo é desenvolver uma interface temática, organizada e visualmente personalizada.
 
 ---
-[Clique aqui para acessar o site do filme](file:///C:/Users/giovana%20remorini/Desktop/SENAI/github/Avalia%C3%A7%C3%A3o_LIMA/site_filme/index.html#sinopse/)
+[Clique aqui para acessar o site do filme](https://giovanaremorini-dotcom.github.io/sesi_LIMA_vps01_filme/site_filme/)
 ---
 
 <div align="center">
